@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    font-family: sans-serif;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+td {
+    padding: 15px;
+}
+td.rood {
+    background-color: red;
+}
+td.navy {
+    background-color: navy;
+}
+td.forest {
+    background-color: forestgreen;
+}
+td.wine {
+    background-color: darkred;
+}
+td.sienna {
+    background-color: sienna;
+}
+td.pink {
+    background-color: pink;
+}
+td.saffron {
+    background-color: yellow;
+}

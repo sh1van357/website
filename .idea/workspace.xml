@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="e5nde Html">
+      <change afterPath="$PROJECT_DIR$/Html1/Its the name/AboutMe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/Its the name/AboutMe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/Its the name/ProjectsSchool.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/Its the name/ProjectsSchool.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/Its the name/website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/Its the name/website.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Html1/oefen sheets/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skill/Opdr1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skill/Opdr1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skill/Opdr2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skill/Opdr2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skill/Opdr3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skill/Skills.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Skill/textdrop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wonky.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/Burton.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/burton/Burton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/Burton.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/burton/Burton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/H1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/H1/H1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/H1.pagina2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/H1/H1.pagina2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/burton/Login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/burton/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/Tabellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/tabellen/Tabellen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/True_Music.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/truemusic/True_Music.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/True_Music.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/truemusic/True_Music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/Website_scratch.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/wilkens/Website_scratch.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/Wilkens.css" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/wilkens/Wilkens.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Html1/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Html1/oefen sheets/test.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pnLimYyNyTpDH9FsPdm1wNOvDL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PHP" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projecten\HTML\Html1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projecten\HTML\img" />
+      <recent name="C:\projecten\HTML\Html1\wilkens" />
+      <recent name="C:\projecten\HTML\Html1\oefen sheets" />
+      <recent name="C:\projecten\HTML\Html1\truemusic" />
+      <recent name="C:\projecten\HTML\Html1\tabellen" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="H1.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML/Html1/H1.1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.H1.1.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\shiva\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd96fe27-1c10-45c2-82fc-9223ed16a202" name="Default Changelist" comment="" />
+      <created>1615814037339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615814037339</updated>
+      <workItem from="1615814038556" duration="138000" />
+      <workItem from="1615814241898" duration="7876000" />
+      <workItem from="1615903825536" duration="597000" />
+      <workItem from="1616331838385" duration="3562000" />
+      <workItem from="1616427165904" duration="5995000" />
+      <workItem from="1616500139849" duration="952000" />
+      <workItem from="1616937274634" duration="11896000" />
+      <workItem from="1617194216177" duration="4080000" />
+      <workItem from="1617286172600" duration="319000" />
+      <workItem from="1617287220386" duration="2767000" />
+      <workItem from="1617366687954" duration="1586000" />
+      <workItem from="1617567035229" duration="717000" />
+      <workItem from="1617622779206" duration="93000" />
+      <workItem from="1617704794813" duration="949000" />
+      <workItem from="1617877570131" duration="2832000" />
+      <workItem from="1617880476299" duration="304000" />
+      <workItem from="1618228693667" duration="165000" />
+      <workItem from="1618301977088" duration="758000" />
+      <workItem from="1618310491111" duration="2806000" />
+      <workItem from="1618397481845" duration="752000" />
+      <workItem from="1625732452208" duration="3993000" />
+      <workItem from="1625736684215" duration="46000" />
+      <workItem from="1625736779885" duration="282000" />
+      <workItem from="1625737095176" duration="3341000" />
+      <workItem from="1625740511667" duration="1283000" />
+      <workItem from="1625742029159" duration="206000" />
+      <workItem from="1629633754483" duration="109000" />
+      <workItem from="1629634011993" duration="91000" />
+      <workItem from="1638449211878" duration="977000" />
+      <workItem from="1638983086047" duration="1396000" />
+      <workItem from="1639830366603" duration="11000" />
+      <workItem from="1640291962858" duration="86000" />
+      <workItem from="1641981353892" duration="10745000" />
+      <workItem from="1642085097455" duration="20581000" />
+      <workItem from="1642110571610" duration="290000" />
+      <workItem from="1642171964097" duration="8185000" />
+      <workItem from="1642437182615" duration="1339000" />
+      <workItem from="1642639104731" duration="3782000" />
+      <workItem from="1643010173596" duration="11137000" />
+    </task>
+    <task id="LOCAL-00001" summary="my first test">
+      <created>1615815195419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615815195419</updated>
+    </task>
+    <task id="LOCAL-00002" summary="my first test">
+      <created>1615815209116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615815209116</updated>
+    </task>
+    <task id="LOCAL-00003" summary="my first test">
+      <created>1615815282292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615815282292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="my first test">
+      <created>1615815317289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615815317289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="my first test">
+      <created>1615894983603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615894983603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="my first test">
+      <created>1615895013592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615895013592</updated>
+    </task>
+    <task id="LOCAL-00007" summary="my first test">
+      <created>1615895501632</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615895501632</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2nd tests">
+      <created>1615903994424</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615903994424</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2nd tests">
+      <created>1615904036161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615904036161</updated>
+    </task>
+    <task id="LOCAL-00010" summary="H 1 &amp; 2">
+      <created>1616345464677</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616345464677</updated>
+    </task>
+    <task id="LOCAL-00011" summary="H3">
+      <created>1616432610078</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616432610078</updated>
+    </task>
+    <task id="LOCAL-00012" summary="h4">
+      <created>1617026798911</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617026798911</updated>
+    </task>
+    <task id="LOCAL-00013" summary="H5">
+      <created>1617197255767</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617197255767</updated>
+    </task>
+    <task id="LOCAL-00014" summary="H6">
+      <created>1617289100853</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1617289100853</updated>
+    </task>
+    <task id="LOCAL-00015" summary="H6">
+      <created>1617364483953</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1617364483953</updated>
+    </task>
+    <task id="LOCAL-00016" summary="H7">
+      <created>1617367675565</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617367675565</updated>
+    </task>
+    <task id="LOCAL-00017" summary="e5nde Html">
+      <created>1617704849793</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1617704849793</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="my first test" />
+    <MESSAGE value="2nd tests" />
+    <MESSAGE value="H 1 &amp; 2" />
+    <MESSAGE value="H3" />
+    <MESSAGE value="h4" />
+    <MESSAGE value="H5" />
+    <MESSAGE value="H6" />
+    <MESSAGE value="H7" />
+    <MESSAGE value="e5nde Html" />
+    <option name="LAST_COMMIT_MESSAGE" value="e5nde Html" />
+  </component>
+</project>
